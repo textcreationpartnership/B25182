@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true coppy of His Majesties proclamation for England upon the occasion of the designed invasion.</title>
+            <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25182</idno><idno type="EEBO-CITATION">15305003</idno>
+  <idno type="VID">204179</idno>
+  <idno type="EEBO-PROQUEST">2248504074</idno>
+  
+            <idno type="STC">Wing J394</idno>
+            <idno type="OCLC">15305003</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25182)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204179)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1189:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true coppy of His Majesties proclamation for England upon the occasion of the designed invasion.</title>
+                  <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+                  <author>James II, King of England, 1633-1701.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Mr. P.B. engineir ...,</publisher>
+                  <pubPlace>Holy-Rood-House [Edinburgh] :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Given at our court at Whitehall, the 28th day of September, 1688. In the fourth year of our reign."</note>
+                  <note>Imperfect: creased, with loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Revolution of 1688.</term>
+               <term type="geographic_name">Great Britain --  History --  James II, 1685-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:204179:1"/>
+            <pb facs="tcp:204179:2"/>
+            <head>
+               <figure>
+                  <figDesc>royal coat of arms of Scotland, circa 1688</figDesc>
+                  <p>J R </p>
+                  <p>HONI SOIT QVI MAL Y PENSE</p>
+                  <p>GOD SAVE THE KING</p>
+               </figure>
+            </head>
+            <head>A TRUE COPPY OF HIS MAJESTIES PROCLAMATION For <hi>ENGLAND,</hi> Up<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the Occasion of the Designed INVASION.</head>
+            <opener>
+               <signed>JAMES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E have received undoubte<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Advice, That a great and sudden Invasion from <hi>Holland,</hi> with an Armed Force of Foreigners and Strangers, will speedily be made in a Hostile manner upon this Our K<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngdom; And although some false Pretences relating to Liberty, Property, and Religion, contrived or worded with Art and Subtilty, may be given out (as shall be thought useful upon such an Attempt) it is manifest how<g ref="char:EOLhyphen"/>ever, (considering the g<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eat Preparations that are making) that no less Matter, by this Invasion, is propose<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and purposed, than an Absolute Conquest of these Our Kingdoms, and the utter Subduing and Subjecting Us and all Our People, to a Foreign Power; which i<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> promoted (as We understand, although it may seem al<g ref="char:EOLhyphen"/>most Incredible) by some of Our Subjects, being Persons of wicked and restless Spirits, implacable Malice, and desperate Design<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, who having no Sense of former Intestine Distractions, the Memory and Misery whereof should Endear and put a Value upon that Peace and Happiness which hath long been enjoyed; nor being moved by Our rei<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rated Acts of Grace and Mercy, wherein We have studied and delighted to abound towards all Our Subjects, <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd even towards those who were once Our avowed and open Enemies, do again endeavour to Imbroil his Kingdom in Blood and Ruine, to gratifie their own Ambition and Malice, proposing to themselves a <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rey and Booty in such a publick Confusion.</p>
+            <p>We cannot ommit to make it known, That although We had Notice sometimes since, That a Foreign Force was preparing against Us, yet We have always dec<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ned any Foreign Succors, but rather have chosen (next under God) to relie upon the true and Ancient Courage, Faith and Allegiance of Our own People, with whom We have often ventured our Life for the Honour of this Nation, and in whose Defence against all Enemies We are firmly resolved to live and die: And there<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ore We solemnly Conjure Our Subjects to lay aside all man<g ref="char:EOLhyphen"/>ner of Animosities, Jealousies and Prejudices, a<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d heartily and chearfully to unite together in the Defence of Us and their Native Countrey; which thing alo<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e will (under God) defeat and frustrate the principale Hope and Design of Our Enemies, who expect to f<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Our People Divided, and by publishing perhaps some plausible Reasons of their coming hither, as the sp<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cious, though false Pretences of maintaining the <hi>Protestant</hi> Religion, or Asserting the Liberties and Properties of Our People, do hope thereby to Conquer this Great and Renowned Kingdom: But albeit the Design hath <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>een carried on with all imaginable Secrecy and Endeavours to surprize and deceive Us; We have not been wa<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ting on Our Part, to make such Provision as did become Us, and by God's Blessing We make no doubt of bein<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> found in so good a Posture, that Our Enemies may have cause to repent such their rash and unjust Attempt▪</p>
+            <p>We did intend (as We lately Declared) to have met Our Parliament in <hi>November</hi> next, and the Writs are issued forth accordingly, proposing to Our selves, amongst other things, that We might be able to quiet the Minds of all Our People in Matters of Religion, <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ursuant to the several Declarations We have published to that effect, but in regard of this strange and unrea<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onable Attempt, from Our Neighbouring Countrey (without any manner of Provocation) designed to divert Our said Gracious Purposes, We find it necessary to recall Our said Writs, which we do hereby recall according<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, Commanding and Requiring Our Loving Subjects to take Notice thereof, and to surcease all further P<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oceedings thereon; And forasmuch as the approaching Danger which now is at hand, will require a grea<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and vigourous Defence, We do hereby strictly Charge and Command All Our Loving Subjects both by Sea and Land (whose ready Concurrence, Valour and Courage as true <hi>English-men</hi> we no way doubt in so just a Cause) to be prepared to defend their Countrey; And we do hereby Command and Require all Lords, Lieu<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enants, and Deputy Lieutenants, to use their best and utmost Endeavours to Resist, Repel and Suppress Our Enimies, who come with such Confidence and great preparati<g ref="char:EOLhyphen"/>ons to Invade and Conquere these our Kingdoms. And lastly, we do most expresly and strictly Enjoyn and Prohibit all and every Our Subjects, of what Degree or Condition soever, from giving any manner of Aid, As<g ref="char:EOLhyphen"/>sistance, Countenance or Succour, or from having or holding any Correspondence with these Our Enemies, or any of their Complices, upon pain of High Treason, and being prosecuted and proceeded against with the utmost Severity.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at</hi> Whtehall, <date>
+                     <hi>the</hi> 28th <hi>day of</hi> September, 1688. <hi>In the Fourth Year of Our Reign.</hi>
+                  </date>
+               </dateline> GOD SAVE THE KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Holy-Rood-House,</hi> Printed by Mr. <hi>P. B,</hi> Enginier, Printer to his most Excellent Majesty for His Royal Houshold, Chapel and Colledge, 1688</p>
+         </div>
+      </back>
+   </text>
+</TEI>
